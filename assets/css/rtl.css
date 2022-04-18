@@ -1,0 +1,84 @@
+/*==== rtl css ====*/
+
+
+
+.traffic-area.traffic-area-rtl .traffic-thumb {
+	left: 0;
+	right: auto;
+	transform: translateY(-50%) rotateY(-180deg);
+}
+
+
+.traffic-area-rtl .traffic-title{
+	padding-left: 220px;
+	padding-right: 0;
+}
+
+
+.traffic-area-rtl .traffic-service .icon{
+	right: 0;
+	left: auto;
+}
+
+
+
+.faq-area-rtl .faq-accrodion .accrodion .accrodion-title::after,
+.faq-area-rtl .faq-accrodion .accrodion .accrodion-title::before{
+	right: auto;
+	left: 30px;
+}
+
+
+.project-area.project-area-rtl .project-box .project-thumb{
+	left: 70px;
+	right: auto;
+}
+
+
+
+.project-area-rtl .project-content .input-box input{
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+
+.project-area-rtl .project-content .input-box button{
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+
+
+
+
+.header-area-rtl .header-main-menu ul{
+	text-align: right;
+}
+
+
+
+
+
+.header-area-rtl .header-main-menu ul > li .sub-menu{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

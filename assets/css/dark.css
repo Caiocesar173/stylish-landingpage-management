@@ -1,0 +1,230 @@
+/*dark css*/
+
+
+.dark{
+	background: #292E3C;
+}
+
+.header-area-dark .header-main-menu ul > li > a{
+	color: #fff;
+}
+.header-area-dark .header-nav-box .btn-box .login-btn{
+	color: #fff;
+}
+
+
+
+.hero-area-dark .hero-content .title{
+	color: #fff;
+}
+
+.hero-area-dark .hero-content p{
+	color: #fff;
+}
+
+.hero-area-dark .hero-content ul li a{
+	background: #fff;
+	border-color: #fff;
+	color: #0e1133;
+}
+
+.hero-area-dark .hero-content ul li a:hover{
+	background: transparent;
+	color: #fff;
+}
+
+.hero-area-dark .hero-content ul li a.item-2{
+	color: #fff;
+}
+.hero-area-dark .hero-content ul li a.item-2:hover{
+	background: #fff;
+	color: #0e1133;
+}
+
+.service-area.service-area-dark{
+	background: #1f2128;
+}
+
+.service-area-dark .section-title .title{
+	color: #fff;
+}
+.service-area-dark .section-title p{
+	color: #fff;
+}
+
+.service-area-dark  .single-service{
+	background: #292E3C;
+}
+
+.service-area-dark .single-service p,
+.service-area-dark .single-service .title{
+	color: #fff;
+}
+
+.features-area-dark  .features-tabs-btn .nav a{
+	color: #fff;
+}
+
+.features-area-dark .features-content p,
+.features-area-dark .features-content .title{
+	color: #fff;
+}
+
+.traffic-area-dark .traffic-title p,
+.traffic-area-dark .traffic-title .title{
+	color: #fff;
+}
+
+.traffic-area-dark .traffic-service p,
+.traffic-area-dark .traffic-service .title{
+	color: #fff;
+}
+
+.traffic-area-dark .traffic-btn a.main-btn{
+	color: #fff;
+}
+.traffic-area-dark .traffic-btn a.main-btn:hover{
+	background: #fff;
+	color: #2b70fa;
+}
+
+.team-area-dark .section-title p,
+.team-area-dark .section-title .title{
+	color: #fff;
+}
+
+.team-area-dark .team-item .content span,
+.team-area-dark .team-item .content .title{
+	color: #fff;
+}
+
+.team-area-dark .team-btn a{
+	color: #fff;
+}
+
+
+
+.faq-area-dark.faq-area,
+.pricing-area-dark.pricing-area{
+	background: #1f2128;
+}
+
+.pricing-area-dark .section-title p,
+.pricing-area-dark .section-title .title{
+	color: #fff;
+}
+
+
+
+.pricing-area-dark.pricing-area ul.switch-toggler-list li a{
+	color: #fff;
+	opacity: 0.1;
+}
+.pricing-area-dark.pricing-area ul.switch-toggler-list li.active a{
+	color: #fff;
+	opacity: 1;
+}
+
+
+.pricing-area-dark.pricing-area .pricing-one__single{
+	background: #292E3C;
+	color: #fff;
+}
+
+.pricing-area-dark .pricing-one__single .pricig-heading h6{
+	color: #fff;
+}
+
+.pricing-area-dark .pricing-one__single .pricig-heading .price-range{
+	color: #fff;
+}
+
+.pricing-area-dark .pricing-one__single .pricig-heading .price-range p{
+	color: #fff;
+}
+
+.pricing-area-dark .pricing-one__single .pricig-heading > p{
+	color: #fff;
+}
+
+.pricing-area-dark .pricing-one__single .pricig-body ul li{
+	color: #fff;
+}
+
+.pricing-area-dark  .pricing-one__single .pricig-body .pricing-btn a{
+	color: #fff;
+}
+
+
+
+
+.faq-area.faq-area-dark .section-title p,
+.faq-area.faq-area-dark .section-title .title{
+	color: #fff;
+}
+
+
+.faq-area.faq-area-dark .faq-accrodion .accrodion{
+	background: #292E3C;
+	
+}
+.faq-area.faq-area-dark .faq-accrodion .accrodion .accrodion-inner,
+.faq-area.faq-area-dark .faq-accrodion .accrodion.active .accrodion-inner{
+	border-color: #292E3C;
+	background: #292E3C;
+}
+
+.faq-area.faq-area-dark .faq-accrodion .accrodion .accrodion-content p,
+.faq-area.faq-area-dark .faq-accrodion .accrodion .accrodion-title h4{
+	color: #fff;
+}
+
+.blog-area-dark .section-title p,
+.blog-area-dark .section-title .title{
+	color: #fff;
+}
+.blog-area-dark .blog-item .content > a,
+.blog-area-dark .blog-item .content .title a,
+.blog-area-dark .blog-item .content .blog-meta ul li a,
+.blog-area-dark .blog-item .content .blog-meta ul li{
+	color: #fff;
+}
+
+.blog-area-dark .blog-item .content > a:hover,
+.blog-area-dark .blog-item .content .title a:hover{
+	color: #2b70fa;
+}
+
+
+.footer-area-dark.footer-area{
+	background: #1f2128;
+}
+
+.footer-area-dark .footer-about-widget a,
+.footer-area-dark .footer-about-widget p{
+	color: #fff;
+}
+.footer-area-dark .footer-about-widget a:hover{
+	color: #2b70fa;
+}
+
+.footer-area-dark .footer-widget-info ul li a,
+.footer-area-dark .footer-widget-info .title,
+.footer-area-dark .footer-navigation ul li a,
+.footer-area-dark .footer-navigation .title{
+	color: #fff;
+}
+.footer-area-dark .footer-navigation ul li a:hover{
+	color: #2b70fa;
+}
+
+.footer-area-dark .footer-copyright .copyright-text p{
+	color: #fff;
+}
+
+.footer-area-dark  .footer-copyright .apps-download-btn ul li a:hover{
+	color: #fff;
+}
+.footer-area-dark  .footer-copyright .apps-download-btn ul li a.item-2{
+	color: #fff;
+}
